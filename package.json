@@ -1,0 +1,30 @@
+{
+    "name": "browserid",
+    "version": "0.1.1",
+    "title": "BrowserID",
+    "author": {
+        "name": "Christian Wenz",
+        "url": "https://github.com/wenz"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "BSD-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.4.0"
+    },
+    "description": "jQuery plugin providing support for Mozilla's BrowserID",
+    "keywords": [
+        "BrowserID",
+        "Integration",
+        "Plugins"
+    ],
+    "homepage": "https://github.com/wenz/jquery-browserid",
+    "files": [
+        "jquery.browserid.js",
+        "jquery.browserid.min.js",
+        "BrowserID.html"
+    ]
+}
